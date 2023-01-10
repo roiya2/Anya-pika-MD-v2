@@ -6,13 +6,13 @@ global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or
 
 
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
-global.botname = "Queen Anya" 
+global.botname = "Roiya bot" 
 global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
 global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
-global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
+global.packname = "Roiya💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
 global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
-actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
-global.headerText = "Anya by Pika" // text for header of menu //        
+actiontitle = '࿙⚜Roiya⚜࿚' // text who displays on the top of welcome and left message //
+global.headerText = "Anya by Roiya" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             
              global.ownernumber = ['918811074852']   // Owner number //
